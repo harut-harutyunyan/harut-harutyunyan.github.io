@@ -2,9 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://harut-harutyunyan.github.io/UsefulBlog/categories/</loc>
+    <loc>https://harut-harutyunyan.github.io/UsefulBlog/post/first-post/</loc>
+    <lastmod>2022-10-23T20:28:39+04:00</lastmod>
   </url><url>
     <loc>https://harut-harutyunyan.github.io/UsefulBlog/</loc>
+    <lastmod>2022-10-23T20:28:39+04:00</lastmod>
+  </url><url>
+    <loc>https://harut-harutyunyan.github.io/UsefulBlog/post/</loc>
+    <lastmod>2022-10-23T20:28:39+04:00</lastmod>
+  </url><url>
+    <loc>https://harut-harutyunyan.github.io/UsefulBlog/page/about/</loc>
+  </url><url>
+    <loc>https://harut-harutyunyan.github.io/UsefulBlog/categories/</loc>
+  </url><url>
+    <loc>https://harut-harutyunyan.github.io/UsefulBlog/page/</loc>
   </url><url>
     <loc>https://harut-harutyunyan.github.io/UsefulBlog/tags/</loc>
   </url>
