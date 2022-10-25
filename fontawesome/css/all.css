@@ -1234,6 +1234,9 @@ readers do not read off random characters that represent icons */
 .fa-discord:before {
   content: "\f392"; }
 
+.fa-artstation:before {
+  content: "\f392"; }
+
 .fa-discourse:before {
   content: "\f393"; }
 
